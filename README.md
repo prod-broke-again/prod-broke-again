@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I'm currently working on [chat roulette (vue, webrtc, electron)](This is a private project that I can't show you.)
+- 🔭 I'm currently working on [Aquila Launcher (vue, laravel, filament, electron)](This is a private project that I can't show you.)
 
 - 🌱 I'm currently doing some self-study **learning new frameworks, etc.**
 
