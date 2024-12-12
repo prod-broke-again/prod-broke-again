@@ -20,6 +20,7 @@
 - 💬 Ask me about **vue, bootstrap, laravel, sourcepawn, ionic, electron, etc.**
 
 - 📫 How to reach me **reidenshi.dev@yandex.ru**
+- Hipolink: Hipolink.me/satoru1999
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
