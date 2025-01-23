@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **nothing**
 
-- 💬 My telegram [@satoru1999](https://tg.me/satoru1999)
+- 💬 My telegram [@prode_broke_again](https://t.me/prode_broke_again)
 
 - 💬 Ask me about **vue, bootstrap, laravel, sourcepawn, ionic, electron, etc.**
 
