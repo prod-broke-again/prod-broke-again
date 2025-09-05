@@ -1,44 +1,142 @@
-<h1 align="center">Hi 👋, I'm Eugene</h1>
-<h3 align="center">A passionate full-stack developer from Abkhazia</h3>
+# Hi 👋, I'm Eugene
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prod-broke-again&label=Profile%20views&color=0e75b6&style=flat" alt="prod-broke-again" /> </p>
+### A passionate full-stack developer from Abkhazia
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prod-broke-again&theme=darkhub" alt="prod-broke-again" /></a> </p>
+🔭 **Currently working on:**
+- **[A4PP Platform](https://github.com/prod-broke-again/a4pp)** - Comprehensive web platform for the Association of Private Practice Psychologists and Psychotherapists (Laravel 11 + Vue 3 + TypeScript)
+- **[Fimbra](https://github.com/prod-broke-again/fordaq)** - Modern classifieds platform similar to Avito/OLX with advanced features (Laravel 12 + Vue 3 + TypeScript)
+- **[Fizio Fitness](https://github.com/prod-broke-again/fizio)** - Mobile fitness and healthy lifestyle app with nutrition tracking, workouts, and health monitoring (Vue 3 + Ionic + Laravel)
+- **[VVK Platform](https://github.com/prod-broke-again/vvk)** - Office equipment repair and service platform with cartridge refilling, used equipment sales (Laravel + Vue 3 + Filament + Tailwind)
+- **[CodeTesting.ru](https://github.com/prod-broke-again/codetesting)** - Encrypted code snippets sharing platform with 30+ languages support and smart language detection (Laravel 12 + Vue 3 + TypeScript)
+- **EagleXVPN API** - VPN service backend development
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+🌱 **Currently learning:** Advanced Laravel patterns, Vue 3 ecosystem, TypeScript best practices, mobile development with Ionic/Capacitor, AI integration, and modern DevOps practices
 
-- 🔭 I'm currently working on [Aquila Launcher (vue, laravel, filament, electron)](This is a private project that I can't show you.)
+👯 **Looking to collaborate on:** Full-stack web applications, mobile apps (Ionic, React Native), API development, desktop applications (Electron)
 
-- 🌱 I'm currently doing some self-study **learning new frameworks, etc.**
+💬 **Ask me about:** Laravel, Vue.js, TypeScript, PHP 8+, MySQL, Redis, Docker, API design, system architecture, mobile development, encryption, performance optimization
 
-- 👯 I’m looking to collaborate on **ionic, electron, android, ios**
+📫 **How to reach me:** 
+- Telegram: [@prod_broke_again](https://t.me/prod_broke_again)
+- Email: reidenshi.dev@yandex.ru
+- Hipolink: [Hipolink.me/satoru1999](https://hipolink.me/satoru1999)
 
-- 🤝 I’m looking for help with **nothing**
+---
 
-- 💬 My telegram [@prod_broke_again](https://t.me/prod_broke_again)
+## 🏆 Achievements
 
-- 💬 Ask me about **vue, bootstrap, laravel, sourcepawn, ionic, electron, etc.**
+- 🚀 **1,244 contributions** in the last year
+- 💻 **6 active projects** simultaneously  
+- 🌟 **Top Laravel & Vue.js developer**
+- 📚 **Self-taught full-stack developer**
+- 🔒 **Security-focused** development approach
+- 🌍 **International** collaboration experience
 
-- 📫 How to reach me **reidenshi.dev@yandex.ru**
-- Hipolink: Hipolink.me/satoru1999
+## ⭐ Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/prod-broke-again" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="prod-broke-again" height="30" width="40" /></a>
-</p>
+### 🏗️ A4PP Platform
+![Stars](https://img.shields.io/github/stars/prod-broke-again/a4pp?style=social)
+![Forks](https://img.shields.io/github/forks/prod-broke-again/a4pp?style=social)
+- **Tech Stack:** Laravel 11, Vue 3, TypeScript, Filament v4
+- **Features:** User management, subscriptions, courses, meetings, blogs
+- **Architecture:** Domain-Driven Design, Repository Pattern
+- **Live Demo:** [a4pp.test](https://a4pp.test)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### 🔐 CodeTesting.ru  
+![Stars](https://img.shields.io/github/stars/prod-broke-again/codetesting?style=social)
+- **Tech Stack:** Laravel 12, Vue 3, TypeScript, Tailwind CSS
+- **Features:** 30+ languages, content encryption, smart language detection
+- **Unique:** Domain-Driven Design, Spatie Crypto integration
+- **Special:** Guest access, token-based editing, recovery system
 
-<h3 align="left">Support:</h3>
-<p width="100%">
-  <a href="https://ko-fi.com/prod-broke-again"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="prod-broke-again" /></a>
-</p><br><br><br><br>
+### 📦 Fimbra (Classifieds)
+![Stars](https://img.shields.io/github/stars/prod-broke-again/fordaq?style=social)
+- **Tech Stack:** Laravel 12, Vue 3, TypeScript, Filament v4
+- **Features:** Listings, chat system, favorites, company ratings
+- **Similar to:** Avito, OLX with modern tech stack
 
-<p width="100%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prod-broke-again&show_icons=true&locale=en&layout=compact" alt="prod-broke-again" />
-</p>
+## 📚 Currently Deepening Knowledge In
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prod-broke-again&show_icons=true&locale=en" alt="prod-broke-again" /></p>
+- 🔒 **Advanced Security:** Encryption (AES, RSA), OAuth 2.0, JWT, CSRF protection
+- 🚀 **Performance:** Redis caching, database optimization, CDN integration
+- 🤖 **AI Integration:** OpenAI API, machine learning basics, code analysis
+- ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD pipelines
+- 📱 **Mobile Development:** Ionic, Capacitor, React Native, PWA
+- 🎨 **UI/UX:** Advanced Tailwind, component libraries, accessibility
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prod-broke-again&" alt="prod-broke-again" /></p>
+## 🎤 Community Involvement
+
+- 💬 **Telegram Community:** [@prod_broke_again](https://t.me/prod_broke_again)
+- 📖 **Open Source Contributor** - Active in Laravel & Vue.js communities
+- 🤝 **Laravel & Vue.js enthusiast** - Love sharing knowledge
+- 🌍 **International collaboration** - Experience with global teams
+- 💡 **Technical mentoring** - Helping junior developers grow
+
+## 🎨 Fun Facts
+
+- 🌅 **Location:** Working from Sochi, Russia  
+- 🎵 **Hobbies:** Technology exploration, gaming, hiking in mountains
+- 💡 **Philosophy:** 
+Code
+is
+poetry
+in
+motion
+architecture
+is
+art
+- 🎯 **Goal:** Build 100+ production applications and mentor developers
+- ⚡ **Superpower:** Turning complex problems into simple, elegant solutions
+- 🔮 **Dream:** Create AI-powered development tools
+
+## 💝 Support My Work
+
+- ⭐ **Star my repositories** if you find them useful
+- 🐛 **Report issues** and help improve projects  
+- 📢 **Share with friends** who might be interested
+- 🤝 **Collaborate** on interesting projects
+- ☕ **Buy me a coffee** if my work helps you
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Frontend & Mobile
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prod-broke-again&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prod-broke-again&layout=compact&theme=dark&hide_border=true)
+
+### 🔥 Recent Activity
+- 🏗️ **A4PP Platform**: 548 commits (Aug-Sep 2025) - Major Laravel/Vue.js platform development
+- 🖨️ **VVK Platform**: Active development - Office equipment repair and service platform
+- 📦 **Fimbra (Classifieds)**: 42 commits (Aug 2025) - Modern classifieds platform with chat, favorites, companies
+- 🏃‍♂️ **Fizio Fitness**: 14 commits (Aug 2025) - Mobile fitness app with nutrition tracking and workouts
+- 🔐 **EagleXVPN API**: 87 commits (Aug 2025) - VPN backend services
+- 🧪 **CodeTesting**: 57 commits (Aug 2025) - Encrypted code sharing platform with smart language detection
+
+**1,244 contributions in the last year** ✨
+
+---
+
+⭐️ *Always open to interesting projects and collaborations!*
