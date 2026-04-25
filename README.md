@@ -21,6 +21,7 @@
 * Telegram: [@prod_broke_again](https://t.me/prod_broke_again)
 * Email: reidenshi.dev@yandex.ru
 * Hipolink: [Hipolink.me/satoru1999](https://hipolink.me/satoru1999)
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4aba3227-cdb8-48de-b589-33b816a1ce44" />
 
 ---
 
